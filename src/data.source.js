@@ -11,7 +11,7 @@ export const Nav00DataSource = {
     className: 'header0-menu',
     children: [
       { name: 'item0', a: { children: 'Home', href: '' } },
-      { name: 'item1', a: { children: '导航二', href: '' } },
+      { name: 'item1', a: { children: 'Hello', href: '' } },
       { name: 'item2', a: { children: '导航三', href: '' } },
       { name: 'item3', a: { children: '导航四', href: '' } },
     ],
